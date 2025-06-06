@@ -16,6 +16,10 @@ A user interface project for a fictional **Pet Shop** application built using **
 
 ### 🛠️ Tech Stack
 
+- **Language**: Dart  
+- **Framework**: Flutter  
+- **Design Tools**: Flutter widgets, Google Fonts, custom icons
+
 
 
 ---
