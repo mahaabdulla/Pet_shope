@@ -1,16 +1,32 @@
-# day4
+## 🐾 Pet Shop UI – Flutter Project
 
-A new Flutter project.
+A user interface project for a fictional **Pet Shop** application built using **Dart & Flutter**. This app provides a clean and responsive UI that showcases pets and related products in a modern e-commerce layout.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🐶 Browse pets by category (Dogs, Cats, Birds, etc.)
+- 📦 View product cards with images, price, and short info
+- 🔍 Pet detail screen with description and adoption/buy button
+- 🎨 Clean UI with responsive layout and consistent theming
+- 📱 Designed for mobile, can be extended to tablet/web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Tech Stack
+
+- **Language**: Dart  
+- **Framework**: Flutter  
+- **Design Tools**: Flutter widgets, Google Fonts, custom icons
+
+---
+
+### 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/petshop-ui.git
+cd petshop-ui
+flutter pub get
+flutter run
+
