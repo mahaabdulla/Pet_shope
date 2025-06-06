@@ -19,16 +19,14 @@ A user interface project for a fictional **Pet Shop** application built using **
 - **Language**: Dart  
 - **Framework**: Flutter  
 - **Design Tools**: Flutter widgets, Google Fonts, custom icons
-
-
-
+  
 ---
 
 ### 🚀 Getting Started
 
 ```bash
 git clone https://github.com/your-username/petshop-ui.git
-cd petshop-ui
+cd pet_shop
 flutter pub get
 flutter run
 
